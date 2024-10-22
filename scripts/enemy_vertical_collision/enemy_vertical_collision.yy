@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"enemy_vertical_collision",
   "isCompatibility":false,
   "isDnD":false,

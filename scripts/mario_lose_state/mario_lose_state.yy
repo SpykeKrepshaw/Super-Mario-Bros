@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"mario_lose_state",
   "isCompatibility":false,
   "isDnD":false,
