@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"enemy_move_when_in_view",
   "isCompatibility":false,
   "isDnD":false,

@@ -50,7 +50,9 @@
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
-  "MetaData":{},
+  "MetaData":{
+    "IDEVersion":"2024.4.1.152",
+  },
   "name":"Super Mario Bros",
   "resources":[
     {"id":{"name":"debug","path":"fonts/debug/debug.yy",},},
