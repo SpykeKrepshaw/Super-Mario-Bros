@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"question_block_coin_vertical_collision",
   "isCompatibility":false,
   "isDnD":false,
