@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"mario_state",
   "isCompatibility":false,
   "isDnD":false,
