@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"register_mario_death",
   "isCompatibility":false,
   "isDnD":false,

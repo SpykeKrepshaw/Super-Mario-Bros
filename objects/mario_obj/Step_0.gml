@@ -24,7 +24,7 @@ else {
 	// Handle jumping
 	if (on_floor and key_jump) {
 		audio_play_sound(jump_sound, 0, false);
-		vsp = -11;
+		vsp = -9;
 	}
 
 	// Set sprite animation

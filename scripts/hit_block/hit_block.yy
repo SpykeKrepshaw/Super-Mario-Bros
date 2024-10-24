@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"hit_block",
   "isCompatibility":false,
   "isDnD":false,
